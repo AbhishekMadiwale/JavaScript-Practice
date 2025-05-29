@@ -9,9 +9,7 @@
 
 
 ## Interview questions 
-- apply() method
 - global-block scope
-- call() method
 - callStack in js 
 - closures in js
 - difference of == and ===
@@ -23,3 +21,6 @@
 - parsing in js 
 - repeat method in js 
 - this object
+- call() method
+- apply() method
+- bind() method 
