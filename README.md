@@ -1,5 +1,4 @@
-# JavaScript questions and DSA practice
-## This will include interview questions and DSA practice problems
+# This will include JS interview questions and DSA practice problems in JS 
 
 ## DSA questions 
 - arrya in JS
