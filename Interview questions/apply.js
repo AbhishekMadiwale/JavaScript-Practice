@@ -18,7 +18,11 @@ function invite (greeting1, greeting2) {
     )
 }
 
-// we pass the arguments as an array
+/**
+ * we pass the arguments as an array
+ * Immediately calls the function
+*/ 
+
 
 invite.apply(emp1, ["Hello", "How are you?"]);
 // output = Hello Abhishek Madiwale how are you?

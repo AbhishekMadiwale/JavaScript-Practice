@@ -16,6 +16,11 @@ function invite (greeting1, greeting2) {
     console.log(greeting1 + " " + this.firstName + " " + this.lastName + " "+ greeting2);
 }
 
-// here we pass the arguments individually 
+/**
+ * here we pass the arguments individually
+ * immediately calls the function
+*/  
+
+
 invite.call(emp1, "Hello", "How are you?");
 invite.call(emp2, "Hello", "How are you?");
