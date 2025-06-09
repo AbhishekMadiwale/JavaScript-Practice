@@ -26,3 +26,4 @@
 - bind() method 
 - Higher Order function (HOF)
 - map(), filter() & reduce()
+- Map polyfill implemented
