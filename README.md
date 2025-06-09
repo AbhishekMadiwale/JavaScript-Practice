@@ -24,3 +24,5 @@
 - call() method
 - apply() method
 - bind() method 
+- Higher Order function (HOF)
+- map(), filter() & reduce()
