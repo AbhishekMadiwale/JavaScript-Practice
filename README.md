@@ -27,3 +27,5 @@
 - Higher Order function (HOF)
 - map(), filter() & reduce()
 - Map polyfill implemented
+- Filter polyfull implemented
+- reduce polyfill implemented
