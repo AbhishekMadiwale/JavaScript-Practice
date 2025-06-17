@@ -48,3 +48,39 @@ var c = function (param1) {
     }
 }
 console.log(c())
+
+/**
+ * Function declaration
+ */
+
+function add (num) {
+    return num + num;
+}
+
+/**
+ * Function expression
+ */
+
+const square = function (num) {
+    return num * num;
+}
+
+console.log(square(5));
+
+/**
+ * IIFE
+ * IIFE means - Immediately Invoked Function Expression
+ */
+
+// (
+//     function add(num) {
+//         console.log(num + 2);
+//     }
+// )(5)
+
+(
+    function(x) {
+        return (function(y) {
+            console.log(x);
+        })(2);
+})(1);
